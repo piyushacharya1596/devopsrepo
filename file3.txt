@@ -6,8 +6,12 @@ this is the fifthline
 this is the sixth line
 DB version-01 username
 DB version-01 password
+<<<<<<< Updated upstream
 DB version-01 scret manager link
 DB version-02 username
 DB version-02 password
 DB version-02 scret manager link
 
+=======
+DB version-01 secret manager link
+>>>>>>> Stashed changes
