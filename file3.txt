@@ -4,12 +4,10 @@ this is the third line
 this is the fourth line
 this is the fifthline
 this is the sixth line
-<<<<<<< Updated upstream
 DB version-01 username
 DB version-01 password
 DB version-01 scret manager link
-=======
 DB version-02 username
 DB version-02 password
 DB version-02 scret manager link
->>>>>>> Stashed changes
+kkdadasd
